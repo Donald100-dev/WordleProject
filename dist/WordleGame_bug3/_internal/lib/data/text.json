@@ -1,0 +1,14 @@
+{
+    "error trans": "Xin l\u1ed7i, kh\u00f4ng th\u1ec3 \u0111\u01b0\u1ee3c d\u1ecbch (!)",
+    "no found": "??? Kh\u00f4ng t\u00ecm th\u1ea5y th\u00f4ng tin ???",
+    "no internet": ":( [kh\u00f4ng c\u00f3 k\u1ebft n\u1ed1i internet]",
+    "word": {
+        "too long": "[T\u1eeb n\u00e0y qu\u00e1 d\u00e0i]",
+        "too short": "[T\u1eeb n\u00e0y qu\u00e1 ng\u1eafn]",
+        "not accepted": "[T\u1eeb n\u00e0y kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1ea5p nh\u1eadn]"
+    },
+    "message": {
+        "do you want def": "B\u1ea1n c\u00f3 mu\u1ed1n bi\u1ebft \u0111\u1ecbnh ngh\u0129a c\u1ee7a t\u1eeb n\u00e0y kh\u00f4ng?",
+        "show answer": "C\u00e2u tr\u1ea3 l\u1eddi l\u00e0"
+    }
+}

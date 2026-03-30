@@ -1,0 +1,20 @@
+{
+    "name game": "Wordle Game",
+    "level": "easy",
+    "source language": "en",
+    "target language": "vi",
+    "texts": {
+        "error trans": "sorry, cannot be translated (!)",
+        "no found": "??? no information found ???",
+        "no internet": ":( [No Internet Connection]",
+        "word": {
+            "too long": "[THIS WORD IS TOO LONG]",
+            "too short": "[THIS WORD IS TOO SHORT]",
+            "not accepted": "[THIS WORD IS NOT ACCEPTED]"
+        },
+        "message": {
+            "do you want def": "Do you want know definition of this word ?",
+            "show answer": "The answer is "
+        }
+    }
+}
